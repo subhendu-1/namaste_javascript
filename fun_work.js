@@ -1,9 +1,12 @@
 let x = 20;
+
+
 a();
 b();
 console.log(x);
 
 function a(){
+
     let x = 100;
     console.log(x);
 }
